@@ -1,6 +1,6 @@
 const lists = document.querySelectorAll('.feature-sub')
 const btns = document.querySelectorAll('.feature__link')
-const btnsa = document.querySelectorAll('.feature__link_active')
+
 
 
 
